@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/socrates/static/css/main.cbaf8c20.css",
-    "main.js": "/socrates/static/js/main.fefe537f.js",
+    "main.css": "/socrates/static/css/main.92380eac.css",
+    "main.js": "/socrates/static/js/main.a447b3d7.js",
     "static/js/787.5c6037c1.chunk.js": "/socrates/static/js/787.5c6037c1.chunk.js",
     "static/media/logo.svg": "/socrates/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/socrates/index.html",
-    "main.cbaf8c20.css.map": "/socrates/static/css/main.cbaf8c20.css.map",
-    "main.fefe537f.js.map": "/socrates/static/js/main.fefe537f.js.map",
+    "main.92380eac.css.map": "/socrates/static/css/main.92380eac.css.map",
+    "main.a447b3d7.js.map": "/socrates/static/js/main.a447b3d7.js.map",
     "787.5c6037c1.chunk.js.map": "/socrates/static/js/787.5c6037c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbaf8c20.css",
-    "static/js/main.fefe537f.js"
+    "static/css/main.92380eac.css",
+    "static/js/main.a447b3d7.js"
   ]
 }
